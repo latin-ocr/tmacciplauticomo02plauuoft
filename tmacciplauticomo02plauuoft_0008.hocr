@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tmacciplauticomo02plauuoft_0008.png"; bbox 0 0 1664 2661; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 715 461 884 492">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 715 461 884 492">
+     <span class='ocr_line' id='line_1_1' title="bbox 715 461 884 492; baseline -0.006 0"><span class='ocrx_word' id='word_1_1' title='bbox 715 461 884 492; x_wconf 90' lang='lat' dir='ltr'><em>OXONII</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 547 529 1061 567">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 547 529 1061 567">
+     <span class='ocr_line' id='line_1_2' title="bbox 547 529 1061 567; baseline -0.004 -6"><span class='ocrx_word' id='word_1_2' title='bbox 547 530 732 562; x_wconf 74' lang='lat' dir='ltr'><em>Excudebat</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 755 530 895 561; x_wconf 82' lang='lat' dir='ltr'><em>Ioannes</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 907 529 1061 567; x_wconf 78' lang='lat' dir='ltr'><em>Johnson</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 565 597 1049 631">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 565 597 1049 631">
+     <span class='ocr_line' id='line_1_3' title="bbox 565 597 1049 631; baseline -0.002 -7"><span class='ocrx_word' id='word_1_5' title='bbox 565 600 590 625; x_wconf 85' lang='lat' dir='ltr'><em>A</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 597 598 852 631; x_wconf 66' lang='lat' dir='ltr'><em>relu&#39;typograplms</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 869 597 1049 624; x_wconf 80' lang='lat' dir='ltr'><em>academicus</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 168 1205 1170 1842">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 168 1205 1170 1842">
+     <span class='ocr_line' id='line_1_4' title="bbox 168 1205 1170 1842; baseline 0 819"><span class='ocrx_word' id='word_1_8' title='bbox 168 1205 1170 1842; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 587 2283 1022 2319">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 587 2283 1022 2319">
+     <span class='ocr_line' id='line_1_5' title="bbox 587 2283 1022 2319; baseline -0.014 -1"><span class='ocrx_word' id='word_1_9' title='bbox 587 2286 718 2319; x_wconf 79' lang='lat' dir='ltr'><strong>Prlnted</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 734 2287 765 2317; x_wconf 82' lang='lat' dir='ltr'><em>iu</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 782 2285 883 2316; x_wconf 75' lang='lat' dir='ltr'>Great</span> <span class='ocrx_word' id='word_1_12' title='bbox 901 2283 1022 2314; x_wconf 80' lang='lat' dir='ltr'>Britain</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
